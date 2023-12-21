@@ -1,5 +1,5 @@
-%{?!opensslver: %global opensslver 1.1.1s}
-%{?!opensshver: %global opensshver 9.1p1}
+%{?!opensslver: %global opensslver 3.0.11}
+%{?!opensshver: %global opensshver 9.5p1}
 
 %define static_openssl 1
 
